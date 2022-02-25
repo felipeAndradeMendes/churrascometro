@@ -1,0 +1,1 @@
+esse projeto tem o objetivo de calcular a quantidade de comida e bebida para um churrasco, dependendo da quantidade de 
